@@ -7,5 +7,6 @@ XConfig (micro)service is responsible for managing configurations for all the se
 
 Initial POC will be aimed at achieving following functionalies : 
 - Configuration of different services stored in Git repository.
+- Configuration for different environment (Dev, Test, prod)
 - Sensitive info like password and keys should be stored in Vault
 - Configuration versioning
