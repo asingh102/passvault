@@ -12,7 +12,11 @@ Active Directory connector will provide functionality for target reconciliation 
 
 ### Database Connector
 
-DB connector will provide functionality for Trusted as well as target reconciliation. 
+DB connector will provide functionality for Trusted as well as target reconciliation and provisioning. 
+
+ConnId connector details are at following location :
+
+https://github.com/Tirasa/ConnIdDBBundle
 
 ### LDAP Connector
 
